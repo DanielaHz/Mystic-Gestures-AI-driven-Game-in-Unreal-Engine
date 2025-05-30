@@ -11,7 +11,10 @@ rience.
 From my side, I covered four areas: project management, game development, character
 design, and UI/UX design. 
 
-![image](/images/video.gif)
+|  |
+| --- |
+|![image](/images/video.gif)|
+
 Link Complete Demo:https://youtu.be/4wPZSKOpgCM?si=7FU1tevD0nnPEZDS
 
 ## Gestures and Props Interaction
@@ -22,4 +25,3 @@ Link Complete Demo:https://youtu.be/4wPZSKOpgCM?si=7FU1tevD0nnPEZDS
 | ![image](/images/torches.gif) | ![image](/images/mushroom.gif) |
 |  |  |
 
-## Model Interaction
