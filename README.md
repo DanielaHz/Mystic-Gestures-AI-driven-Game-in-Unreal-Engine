@@ -13,7 +13,7 @@ design, and UI/UX design.
 
 |  |
 | --- |
-|![image](/images/video.gif)|
+|![image](/images/videoIntro.gif)|
 
 Link Complete Demo:https://youtu.be/4wPZSKOpgCM?si=7FU1tevD0nnPEZDS
 
