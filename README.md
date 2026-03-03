@@ -10,7 +10,7 @@ design, and UI/UX design.
 
 ![image](/images/demo.gif)
 
-Link Complete Demo:https://youtu.be/4wPZSKOpgCM?si=7FU1tevD0nnPEZDS
+Link Complete Demo: https://www.youtube.com/watch?v=otZ3ESxXoQQ
 
 Link to Download the Game (2.7GB): https://drive.google.com/file/d/1TqWXiyVDD1VbzIJV8XI4p1ha9Yi9t-5p/view?usp=sharing
 
